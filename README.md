@@ -1,4 +1,4 @@
-# blinkit-Dashboard
+# Blinkit Sales Analysis Dashboard
 
 📊 Blinkit Sales Analysis Dashboard – Excel Project
 Welcome to the Blinkit Sales Dashboard Project, a beginner-friendly Excel project demonstrating real-time sales analysis. This project visualizes and explores sales, ratings, outlet performance, and item-level insights for better decision-making.
